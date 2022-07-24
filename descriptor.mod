@@ -1,6 +1,6 @@
 name="La Finaccia del Lag"
 picture="thumbnail.png"
-version="1.0.0"
+version="1.0.1"
 tags={
 	"Fixes"
 }
