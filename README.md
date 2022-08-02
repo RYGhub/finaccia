@@ -8,7 +8,7 @@
 
 This mod changes the following _defines_:
 
-```
+```lua
 NDefines.NGame.LAG_DAYS_FOR_LOWER_SPEED = 168
 NDefines.NGame.LAG_DAYS_FOR_PAUSE = 720
 ```
